@@ -2,7 +2,7 @@ VIP - Lobby
  -
 VIP - Survival 
 
-- Vote Reward พิเศษ
+- Vote Reward พิเศษ ได้รับ COIN 100
 - Set Home 3 หลัง
 - ของลงประมูล/ขาย ได้ 10 อัน /ah
 - kit pvp
@@ -16,6 +16,7 @@ VIP - Survival
 - /hat
 - /glow เรืองแสงได้
 - /near ดูผู้เล่นที่อยู่ใกล้
+1000 coin
 - /disposal ทิ้งสิ่งของบางอย่าง
 
 MVP - Lobby
@@ -23,7 +24,7 @@ MVP - Lobby
 
 MVP - Survival
 
-- Vote Reward พิเศษ 
+- Vote Reward พิเศษ  ได้รับ COIN 200
 - /kit mvp
  - /fly บินไปได้ทุกที่
  - /disenchant ลบมลวันนิลาที่เจาะจง
@@ -34,6 +35,8 @@ MVP - Survival
 - /craft
 - /tpathere
 - /invsort
+3 Crate Perk
+3000 COIN 
 
 Legendary - Lobby
 
@@ -41,7 +44,7 @@ Legendary - Lobby
 
 Legendary - Survival
 
- - Vote Reward พิเศษ 
+ - Vote Reward พิเศษ  ได้รับ COIN 300 
 - kit legendary
  - repair
  - speed เพื่ม speed วิ่ง หรือ บิน 
@@ -54,5 +57,7 @@ Legendary - Survival
  - effect พิเศษเสริม
  - chestsort
  - feed
+5000 COIN
+5 Crate Perk
  - สร้างวาปส่วนตัวได้เพื่มอีก 1 
 
